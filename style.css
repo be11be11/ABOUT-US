@@ -19,7 +19,7 @@ p {
 }
   
 div.祖 {border:0px; background-color:rgba(0,50,200,0); width: 100%; display:flex; flex-flow: column; position: relative; }
-div.親1 {border:0px; width: 102%; height: 700px; background-image: url("jpg 店内 image 5.jpeg"); background-size:100% 100%; background-repeat: no-repeat;position: relative; }
+div.親1 {border:0px; width: 100%; height: 700px; margin-top: -5%; background-image: url("jpg 店内 image 5.jpeg"); background-size:100% 100%; background-repeat: no-repeat;position: relative; }
 div.子1 {background-color:rgba(230,230,230,0.4); width: 75%; margin-left: 5%; position: relative; text-align: center; }
 div.text {background-color:rgba(230,230,230,0); width: 97.5%; margin: 0 auto; text-align: center; }
 
@@ -45,7 +45,7 @@ p {
 }
  
 div.祖 {border:0px; background-color:rgba(0,50,200,0); width: 100%; display:flex; flex-flow: column; position: relative; }
-div.親1 {border:0px; width: 102%; height: 880px; background-image: url("jpg 店内 image 5.jpeg"); background-size:100% 100%; background-repeat: no-repeat;position: relative; }
+div.親1 {border:0px; width: 100%; height: 880px; margin-top: -5%; background-image: url("jpg 店内 image 5.jpeg"); background-size:100% 100%; background-repeat: no-repeat;position: relative; }
 div.子1 {border:0px; background-color:rgba(230,230,230,0.4); width: 75%; margin-left: 5%; position: relative; text-align: center; }
 div.text {border:0px; background-color:rgba(230,230,230,0); width: 95%; margin: 0 auto; text-align: center; }
 
@@ -71,8 +71,8 @@ p {
 }
    
 div.祖 {border:0px; background-color:rgba(0,50,200,0); width: 100%; display:flex; flex-flow: column; position: relative; }
-div.親1 {border:0px; width: 102%; height: 750px; background-image: url("jpg 店内 image 4.jpeg"); background-size:100% 100%; background-repeat: no-repeat;position: relative; }
-div.子1 {border:0px; background-color:rgba(230,230,230,0.4); width: 70%; position: relative; text-align: center; }
+div.親1 {border:0px; width: 100%; height: 750px; margin-top: -5%; background-image: url("jpg 店内 image 4.jpeg"); background-size:100% 100%; background-repeat: no-repeat;position: relative; }
+div.子1 {border:0px; background-color:rgba(230,230,230,0.4); width: 70%; margin-left: 5%; position: relative; text-align: center; }
 div.text {border:0px; background-color:rgba(230,230,230,0); width: 95%; margin: 0 auto; text-align: center; }
 
 }
