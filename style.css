@@ -18,10 +18,12 @@ p {
   z-index: 10; 
 }
   
-div.祖 {border:0px; background-color:rgba(0,50,200,0); width: 100%; display:flex; flex-flow: column; position: relative; }
+div.祖1 {border:0px; background-color:rgba(0,50,200,0); width: 100%; display:flex; flex-flow: column; position: relative; }
 div.親1 {border:0px; width: 100%; height: 670px; position: absolute; margin-top: -5%; background-image: url("jpg 店内 image 5.jpeg"); background-size:100% 100%; background-repeat: no-repeat; position: relative; }
-div.子1 {border:2px solid pink; background-color:rgba(200,0,50,0.3); width: 60%; height: 300px; margin-top: 3%; margin-left: 2%; position: relative; }
-div.text {border:2px solid aqua; background-color:rgba(230,230,230,0.4); box-sizing: border-box; width: 70%; height: 230px; margin-top: 0; margin-left: 2%; padding: 25% 5%; text-align: center; }
+div.子1 {box-sizing: border-box; width: 60%; border:2px solid pink; background-color:rgba(200,0,50,0.3); margin-top: 3%; margin-left: 2%; position: relative; }
+/*元　height: 300px;*/	
+div.text1 {box-sizing: border-box; width: 70%; border:2px solid aqua; background-color:rgba(230,230,230,0.4); padding: 25% 5%; text-align: center; }
+/*元　height: 230px;*/ 
 }
 
 
@@ -43,10 +45,12 @@ p {
   z-index: 10; 
 }
  
-div.祖 {border:0px; background-color:rgba(0,50,200,0); width: 100%; display:flex; flex-flow: column; position: relative; }
+div.祖1 {border:0px; background-color:rgba(0,50,200,0); width: 100%; display:flex; flex-flow: column; position: relative; }
 div.親1 {border:0px; width: 100%; height: 910px; position: absolute; margin-top: -5%; background-image: url("jpg 店内 image 5.jpeg"); background-size:100% 100%; background-repeat: no-repeat; position: relative; }
-div.子1 {border:2px solid pink; background-color:rgba(200,0,50,0.3); width: 60%; height: 400px; margin-top: 3%; margin-left: 2%; position: relative; }
-div.text {border:2px solid aqua; background-color:rgba(230,230,230,0.4); box-sizing: border-box; width: 70%; height: 300px; margin-top: 0; margin-left: 2%; padding: 25% 5%; text-align: center; }
+div.子1 {box-sizing: border-box; width: 60%; border:2px solid pink; background-color:rgba(200,0,50,0.3); margin-top: 3%; margin-left: 2%; position: relative; }
+/*元　height: 400px;*/	
+div.text1 {box-sizing: border-box; width: 70%; border:2px solid aqua; background-color:rgba(230,230,230,0.4); padding: 25% 5%; text-align: center; }
+/*元 height: 300px; */	
 }
 
    
@@ -68,8 +72,10 @@ p {
   z-index: 10; 
 }
    
-div.祖 {border:0px; background-color:rgba(0,50,200,0); width: 100%; display:flex; flex-flow: column; position: relative; }
+div.祖1 {border:0px; background-color:rgba(0,50,200,0); width: 100%; display:flex; flex-flow: column; position: relative; }
 div.親1 {border:0px; width: 100%; height: 800px; position: absolute; margin-top: -2%; background-image: url("jpg 店内 image 4.jpeg"); background-size:100% 100%; background-repeat: no-repeat; position: relative; }
-div.子1 {border:2px solid pink; background-color:rgba(200,0,50,0.3); width: 60%; height: 300px; margin-top: 3%; margin-left: 2%; position: relative; }
-div.text {border:2px solid aqua; background-color:rgba(230,230,230,0.4); box-sizing: border-box; width: 70%; height: 200px; margin-top: 0; margin-left: 2%; padding: 25% 5%; text-align: center; }
+div.子1 {box-sizing: border-box; width: 60%; border:2px solid pink; background-color:rgba(200,0,50,0.3); margin-top: 3%; margin-left: 2%; position: relative; }
+/*元　 height: 300px;*/	
+div.text1 {box-sizing: border-box; width: 70%; border:2px solid aqua; background-color:rgba(230,230,230,0.4); padding: 25% 5%; text-align: center; }
+/*元　height: 200px; */	
 }
